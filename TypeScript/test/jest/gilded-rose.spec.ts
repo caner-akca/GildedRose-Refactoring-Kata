@@ -133,4 +133,34 @@ describe("Gilded Rose ", function () {
       expect(items[0].quality).toBe(40);
     });
   });
+
+  describe("Conjured Item", function () {
+    it("decrease sellIn by 1", function () {
+      const gildedRose = new GildedRose([new Item("Conjured", 5, 10)]);
+      const items = gildedRose.updateQuality();
+
+      expect(items[0].sellIn).toBe(4);
+    });
+
+    it("decrease quality by 2 when sellIn > 0", function () {
+      const gildedRose = new GildedRose([new Item("Conjured", 5, 10)]);
+      const items = gildedRose.updateQuality();
+
+      expect(items[0].quality).toBe(8);
+    });
+
+    it("decrease quality by 4 when sellIn <= 0", function () {
+      const gildedRose = new GildedRose([new Item("Conjured", 0, 10)]);
+      const items = gildedRose.updateQuality();
+
+      expect(items[0].quality).toBe(6);
+    });
+
+    it("do not decrease quality when quality = 0", function () {
+      const gildedRose = new GildedRose([new Item("Conjured", 0, 0)]);
+      const items = gildedRose.updateQuality();
+
+      expect(items[0].quality).toBe(0);
+    });
+  });
 });

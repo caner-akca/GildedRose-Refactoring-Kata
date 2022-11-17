@@ -14,6 +14,7 @@ export enum ItemTypes {
   BRIE = "Aged Brie",
   BACKSTAGE = "Backstage passes to a TAFKAL80ETC concert",
   SULFURAS = "Sulfuras, Hand of Ragnaros",
+  CONJURED = "Conjured",
 }
 
 export const values = {
@@ -83,7 +84,27 @@ const updateItem = (item: Item): Item => {
     return item;
   }
 
+  if (item.name === ItemTypes.CONJURED) {
+    return updateConjured(item);
+  }
+
   return updateNormal(item);
+};
+
+const updateConjured = (item: Item): Item => {
+  if (item.quality > values.quality.MIN_VALUE) {
+    item.quality = item.quality - 2;
+  }
+
+  item.sellIn--;
+
+  if (
+    item.sellIn < values.sellIn.MIN_VALUE &&
+    item.quality > values.quality.MIN_VALUE
+  ) {
+    item.quality = item.quality - 2;
+  }
+  return item;
 };
 export class GildedRose {
   items: Array<Item>;

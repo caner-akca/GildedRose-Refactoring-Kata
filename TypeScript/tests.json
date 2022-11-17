@@ -20774,5 +20774,5199 @@
     "quality": 51,
     "numberOfSellIn": 12,
     "outputQuality": 51
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": -1,
+    "numberOfSellIn": -2,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 0,
+    "numberOfSellIn": -2,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 1,
+    "numberOfSellIn": -2,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 2,
+    "numberOfSellIn": -2,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 3,
+    "numberOfSellIn": -2,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 4,
+    "numberOfSellIn": -2,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 5,
+    "numberOfSellIn": -2,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 6,
+    "numberOfSellIn": -2,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 7,
+    "numberOfSellIn": -2,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 8,
+    "numberOfSellIn": -2,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 9,
+    "numberOfSellIn": -2,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 10,
+    "numberOfSellIn": -2,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 11,
+    "numberOfSellIn": -2,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 12,
+    "numberOfSellIn": -2,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 13,
+    "numberOfSellIn": -2,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 14,
+    "numberOfSellIn": -2,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 15,
+    "numberOfSellIn": -2,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 16,
+    "numberOfSellIn": -2,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 17,
+    "numberOfSellIn": -2,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 18,
+    "numberOfSellIn": -2,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 19,
+    "numberOfSellIn": -2,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 20,
+    "numberOfSellIn": -2,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 21,
+    "numberOfSellIn": -2,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 22,
+    "numberOfSellIn": -2,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 23,
+    "numberOfSellIn": -2,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 24,
+    "numberOfSellIn": -2,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 25,
+    "numberOfSellIn": -2,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 26,
+    "numberOfSellIn": -2,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 27,
+    "numberOfSellIn": -2,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 28,
+    "numberOfSellIn": -2,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 29,
+    "numberOfSellIn": -2,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 30,
+    "numberOfSellIn": -2,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 31,
+    "numberOfSellIn": -2,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 32,
+    "numberOfSellIn": -2,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 33,
+    "numberOfSellIn": -2,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 34,
+    "numberOfSellIn": -2,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 35,
+    "numberOfSellIn": -2,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 36,
+    "numberOfSellIn": -2,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 37,
+    "numberOfSellIn": -2,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 38,
+    "numberOfSellIn": -2,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 39,
+    "numberOfSellIn": -2,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 40,
+    "numberOfSellIn": -2,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 41,
+    "numberOfSellIn": -2,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 42,
+    "numberOfSellIn": -2,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 43,
+    "numberOfSellIn": -2,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 44,
+    "numberOfSellIn": -2,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 45,
+    "numberOfSellIn": -2,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 46,
+    "numberOfSellIn": -2,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 47,
+    "numberOfSellIn": -2,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 48,
+    "numberOfSellIn": -2,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 49,
+    "numberOfSellIn": -2,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 50,
+    "numberOfSellIn": -2,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 51,
+    "numberOfSellIn": -2,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": -1,
+    "numberOfSellIn": -1,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 0,
+    "numberOfSellIn": -1,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 1,
+    "numberOfSellIn": -1,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 2,
+    "numberOfSellIn": -1,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 3,
+    "numberOfSellIn": -1,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 4,
+    "numberOfSellIn": -1,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 5,
+    "numberOfSellIn": -1,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 6,
+    "numberOfSellIn": -1,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 7,
+    "numberOfSellIn": -1,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 8,
+    "numberOfSellIn": -1,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 9,
+    "numberOfSellIn": -1,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 10,
+    "numberOfSellIn": -1,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 11,
+    "numberOfSellIn": -1,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 12,
+    "numberOfSellIn": -1,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 13,
+    "numberOfSellIn": -1,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 14,
+    "numberOfSellIn": -1,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 15,
+    "numberOfSellIn": -1,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 16,
+    "numberOfSellIn": -1,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 17,
+    "numberOfSellIn": -1,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 18,
+    "numberOfSellIn": -1,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 19,
+    "numberOfSellIn": -1,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 20,
+    "numberOfSellIn": -1,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 21,
+    "numberOfSellIn": -1,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 22,
+    "numberOfSellIn": -1,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 23,
+    "numberOfSellIn": -1,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 24,
+    "numberOfSellIn": -1,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 25,
+    "numberOfSellIn": -1,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 26,
+    "numberOfSellIn": -1,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 27,
+    "numberOfSellIn": -1,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 28,
+    "numberOfSellIn": -1,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 29,
+    "numberOfSellIn": -1,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 30,
+    "numberOfSellIn": -1,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 31,
+    "numberOfSellIn": -1,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 32,
+    "numberOfSellIn": -1,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 33,
+    "numberOfSellIn": -1,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 34,
+    "numberOfSellIn": -1,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 35,
+    "numberOfSellIn": -1,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 36,
+    "numberOfSellIn": -1,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 37,
+    "numberOfSellIn": -1,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 38,
+    "numberOfSellIn": -1,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 39,
+    "numberOfSellIn": -1,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 40,
+    "numberOfSellIn": -1,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 41,
+    "numberOfSellIn": -1,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 42,
+    "numberOfSellIn": -1,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 43,
+    "numberOfSellIn": -1,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 44,
+    "numberOfSellIn": -1,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 45,
+    "numberOfSellIn": -1,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 46,
+    "numberOfSellIn": -1,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 47,
+    "numberOfSellIn": -1,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 48,
+    "numberOfSellIn": -1,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 49,
+    "numberOfSellIn": -1,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 50,
+    "numberOfSellIn": -1,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 0,
+    "quality": 51,
+    "numberOfSellIn": -1,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": -1,
+    "numberOfSellIn": 0,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 0,
+    "numberOfSellIn": 0,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 1,
+    "numberOfSellIn": 0,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 2,
+    "numberOfSellIn": 0,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 3,
+    "numberOfSellIn": 0,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 4,
+    "numberOfSellIn": 0,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 5,
+    "numberOfSellIn": 0,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 6,
+    "numberOfSellIn": 0,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 7,
+    "numberOfSellIn": 0,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 8,
+    "numberOfSellIn": 0,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 9,
+    "numberOfSellIn": 0,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 10,
+    "numberOfSellIn": 0,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 11,
+    "numberOfSellIn": 0,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 12,
+    "numberOfSellIn": 0,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 13,
+    "numberOfSellIn": 0,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 14,
+    "numberOfSellIn": 0,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 15,
+    "numberOfSellIn": 0,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 16,
+    "numberOfSellIn": 0,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 17,
+    "numberOfSellIn": 0,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 18,
+    "numberOfSellIn": 0,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 19,
+    "numberOfSellIn": 0,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 20,
+    "numberOfSellIn": 0,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 21,
+    "numberOfSellIn": 0,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 22,
+    "numberOfSellIn": 0,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 23,
+    "numberOfSellIn": 0,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 24,
+    "numberOfSellIn": 0,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 25,
+    "numberOfSellIn": 0,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 26,
+    "numberOfSellIn": 0,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 27,
+    "numberOfSellIn": 0,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 28,
+    "numberOfSellIn": 0,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 29,
+    "numberOfSellIn": 0,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 30,
+    "numberOfSellIn": 0,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 31,
+    "numberOfSellIn": 0,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 32,
+    "numberOfSellIn": 0,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 33,
+    "numberOfSellIn": 0,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 34,
+    "numberOfSellIn": 0,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 35,
+    "numberOfSellIn": 0,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 36,
+    "numberOfSellIn": 0,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 37,
+    "numberOfSellIn": 0,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 38,
+    "numberOfSellIn": 0,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 39,
+    "numberOfSellIn": 0,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 40,
+    "numberOfSellIn": 0,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 41,
+    "numberOfSellIn": 0,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 42,
+    "numberOfSellIn": 0,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 43,
+    "numberOfSellIn": 0,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 44,
+    "numberOfSellIn": 0,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 45,
+    "numberOfSellIn": 0,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 46,
+    "numberOfSellIn": 0,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 47,
+    "numberOfSellIn": 0,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 48,
+    "numberOfSellIn": 0,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 49,
+    "numberOfSellIn": 0,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 50,
+    "numberOfSellIn": 0,
+    "outputQuality": 48
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 1,
+    "quality": 51,
+    "numberOfSellIn": 0,
+    "outputQuality": 49
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": -1,
+    "numberOfSellIn": 1,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 0,
+    "numberOfSellIn": 1,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 1,
+    "numberOfSellIn": 1,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 2,
+    "numberOfSellIn": 1,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 3,
+    "numberOfSellIn": 1,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 4,
+    "numberOfSellIn": 1,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 5,
+    "numberOfSellIn": 1,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 6,
+    "numberOfSellIn": 1,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 7,
+    "numberOfSellIn": 1,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 8,
+    "numberOfSellIn": 1,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 9,
+    "numberOfSellIn": 1,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 10,
+    "numberOfSellIn": 1,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 11,
+    "numberOfSellIn": 1,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 12,
+    "numberOfSellIn": 1,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 13,
+    "numberOfSellIn": 1,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 14,
+    "numberOfSellIn": 1,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 15,
+    "numberOfSellIn": 1,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 16,
+    "numberOfSellIn": 1,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 17,
+    "numberOfSellIn": 1,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 18,
+    "numberOfSellIn": 1,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 19,
+    "numberOfSellIn": 1,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 20,
+    "numberOfSellIn": 1,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 21,
+    "numberOfSellIn": 1,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 22,
+    "numberOfSellIn": 1,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 23,
+    "numberOfSellIn": 1,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 24,
+    "numberOfSellIn": 1,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 25,
+    "numberOfSellIn": 1,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 26,
+    "numberOfSellIn": 1,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 27,
+    "numberOfSellIn": 1,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 28,
+    "numberOfSellIn": 1,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 29,
+    "numberOfSellIn": 1,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 30,
+    "numberOfSellIn": 1,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 31,
+    "numberOfSellIn": 1,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 32,
+    "numberOfSellIn": 1,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 33,
+    "numberOfSellIn": 1,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 34,
+    "numberOfSellIn": 1,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 35,
+    "numberOfSellIn": 1,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 36,
+    "numberOfSellIn": 1,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 37,
+    "numberOfSellIn": 1,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 38,
+    "numberOfSellIn": 1,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 39,
+    "numberOfSellIn": 1,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 40,
+    "numberOfSellIn": 1,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 41,
+    "numberOfSellIn": 1,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 42,
+    "numberOfSellIn": 1,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 43,
+    "numberOfSellIn": 1,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 44,
+    "numberOfSellIn": 1,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 45,
+    "numberOfSellIn": 1,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 46,
+    "numberOfSellIn": 1,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 47,
+    "numberOfSellIn": 1,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 48,
+    "numberOfSellIn": 1,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 49,
+    "numberOfSellIn": 1,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 50,
+    "numberOfSellIn": 1,
+    "outputQuality": 48
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 51,
+    "numberOfSellIn": 1,
+    "outputQuality": 49
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": -1,
+    "numberOfSellIn": 2,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 0,
+    "numberOfSellIn": 2,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 1,
+    "numberOfSellIn": 2,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 2,
+    "numberOfSellIn": 2,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 3,
+    "numberOfSellIn": 2,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 4,
+    "numberOfSellIn": 2,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 5,
+    "numberOfSellIn": 2,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 6,
+    "numberOfSellIn": 2,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 7,
+    "numberOfSellIn": 2,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 8,
+    "numberOfSellIn": 2,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 9,
+    "numberOfSellIn": 2,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 10,
+    "numberOfSellIn": 2,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 11,
+    "numberOfSellIn": 2,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 12,
+    "numberOfSellIn": 2,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 13,
+    "numberOfSellIn": 2,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 14,
+    "numberOfSellIn": 2,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 15,
+    "numberOfSellIn": 2,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 16,
+    "numberOfSellIn": 2,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 17,
+    "numberOfSellIn": 2,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 18,
+    "numberOfSellIn": 2,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 19,
+    "numberOfSellIn": 2,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 20,
+    "numberOfSellIn": 2,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 21,
+    "numberOfSellIn": 2,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 22,
+    "numberOfSellIn": 2,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 23,
+    "numberOfSellIn": 2,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 24,
+    "numberOfSellIn": 2,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 25,
+    "numberOfSellIn": 2,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 26,
+    "numberOfSellIn": 2,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 27,
+    "numberOfSellIn": 2,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 28,
+    "numberOfSellIn": 2,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 29,
+    "numberOfSellIn": 2,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 30,
+    "numberOfSellIn": 2,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 31,
+    "numberOfSellIn": 2,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 32,
+    "numberOfSellIn": 2,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 33,
+    "numberOfSellIn": 2,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 34,
+    "numberOfSellIn": 2,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 35,
+    "numberOfSellIn": 2,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 36,
+    "numberOfSellIn": 2,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 37,
+    "numberOfSellIn": 2,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 38,
+    "numberOfSellIn": 2,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 39,
+    "numberOfSellIn": 2,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 40,
+    "numberOfSellIn": 2,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 41,
+    "numberOfSellIn": 2,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 42,
+    "numberOfSellIn": 2,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 43,
+    "numberOfSellIn": 2,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 44,
+    "numberOfSellIn": 2,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 45,
+    "numberOfSellIn": 2,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 46,
+    "numberOfSellIn": 2,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 47,
+    "numberOfSellIn": 2,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 48,
+    "numberOfSellIn": 2,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 49,
+    "numberOfSellIn": 2,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 50,
+    "numberOfSellIn": 2,
+    "outputQuality": 48
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 3,
+    "quality": 51,
+    "numberOfSellIn": 2,
+    "outputQuality": 49
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": -1,
+    "numberOfSellIn": 3,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 0,
+    "numberOfSellIn": 3,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 1,
+    "numberOfSellIn": 3,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 2,
+    "numberOfSellIn": 3,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 3,
+    "numberOfSellIn": 3,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 4,
+    "numberOfSellIn": 3,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 5,
+    "numberOfSellIn": 3,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 6,
+    "numberOfSellIn": 3,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 7,
+    "numberOfSellIn": 3,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 8,
+    "numberOfSellIn": 3,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 9,
+    "numberOfSellIn": 3,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 10,
+    "numberOfSellIn": 3,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 11,
+    "numberOfSellIn": 3,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 12,
+    "numberOfSellIn": 3,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 13,
+    "numberOfSellIn": 3,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 14,
+    "numberOfSellIn": 3,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 15,
+    "numberOfSellIn": 3,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 16,
+    "numberOfSellIn": 3,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 17,
+    "numberOfSellIn": 3,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 18,
+    "numberOfSellIn": 3,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 19,
+    "numberOfSellIn": 3,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 20,
+    "numberOfSellIn": 3,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 21,
+    "numberOfSellIn": 3,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 22,
+    "numberOfSellIn": 3,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 23,
+    "numberOfSellIn": 3,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 24,
+    "numberOfSellIn": 3,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 25,
+    "numberOfSellIn": 3,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 26,
+    "numberOfSellIn": 3,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 27,
+    "numberOfSellIn": 3,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 28,
+    "numberOfSellIn": 3,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 29,
+    "numberOfSellIn": 3,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 30,
+    "numberOfSellIn": 3,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 31,
+    "numberOfSellIn": 3,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 32,
+    "numberOfSellIn": 3,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 33,
+    "numberOfSellIn": 3,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 34,
+    "numberOfSellIn": 3,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 35,
+    "numberOfSellIn": 3,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 36,
+    "numberOfSellIn": 3,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 37,
+    "numberOfSellIn": 3,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 38,
+    "numberOfSellIn": 3,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 39,
+    "numberOfSellIn": 3,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 40,
+    "numberOfSellIn": 3,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 41,
+    "numberOfSellIn": 3,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 42,
+    "numberOfSellIn": 3,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 43,
+    "numberOfSellIn": 3,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 44,
+    "numberOfSellIn": 3,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 45,
+    "numberOfSellIn": 3,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 46,
+    "numberOfSellIn": 3,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 47,
+    "numberOfSellIn": 3,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 48,
+    "numberOfSellIn": 3,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 49,
+    "numberOfSellIn": 3,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 50,
+    "numberOfSellIn": 3,
+    "outputQuality": 48
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 4,
+    "quality": 51,
+    "numberOfSellIn": 3,
+    "outputQuality": 49
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": -1,
+    "numberOfSellIn": 4,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 0,
+    "numberOfSellIn": 4,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 1,
+    "numberOfSellIn": 4,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 2,
+    "numberOfSellIn": 4,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 3,
+    "numberOfSellIn": 4,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 4,
+    "numberOfSellIn": 4,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 5,
+    "numberOfSellIn": 4,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 6,
+    "numberOfSellIn": 4,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 7,
+    "numberOfSellIn": 4,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 8,
+    "numberOfSellIn": 4,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 9,
+    "numberOfSellIn": 4,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 10,
+    "numberOfSellIn": 4,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 11,
+    "numberOfSellIn": 4,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 12,
+    "numberOfSellIn": 4,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 13,
+    "numberOfSellIn": 4,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 14,
+    "numberOfSellIn": 4,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 15,
+    "numberOfSellIn": 4,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 16,
+    "numberOfSellIn": 4,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 17,
+    "numberOfSellIn": 4,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 18,
+    "numberOfSellIn": 4,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 19,
+    "numberOfSellIn": 4,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 20,
+    "numberOfSellIn": 4,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 21,
+    "numberOfSellIn": 4,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 22,
+    "numberOfSellIn": 4,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 23,
+    "numberOfSellIn": 4,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 24,
+    "numberOfSellIn": 4,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 25,
+    "numberOfSellIn": 4,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 26,
+    "numberOfSellIn": 4,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 27,
+    "numberOfSellIn": 4,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 28,
+    "numberOfSellIn": 4,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 29,
+    "numberOfSellIn": 4,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 30,
+    "numberOfSellIn": 4,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 31,
+    "numberOfSellIn": 4,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 32,
+    "numberOfSellIn": 4,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 33,
+    "numberOfSellIn": 4,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 34,
+    "numberOfSellIn": 4,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 35,
+    "numberOfSellIn": 4,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 36,
+    "numberOfSellIn": 4,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 37,
+    "numberOfSellIn": 4,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 38,
+    "numberOfSellIn": 4,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 39,
+    "numberOfSellIn": 4,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 40,
+    "numberOfSellIn": 4,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 41,
+    "numberOfSellIn": 4,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 42,
+    "numberOfSellIn": 4,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 43,
+    "numberOfSellIn": 4,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 44,
+    "numberOfSellIn": 4,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 45,
+    "numberOfSellIn": 4,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 46,
+    "numberOfSellIn": 4,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 47,
+    "numberOfSellIn": 4,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 48,
+    "numberOfSellIn": 4,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 49,
+    "numberOfSellIn": 4,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 50,
+    "numberOfSellIn": 4,
+    "outputQuality": 48
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 5,
+    "quality": 51,
+    "numberOfSellIn": 4,
+    "outputQuality": 49
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": -1,
+    "numberOfSellIn": 5,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 0,
+    "numberOfSellIn": 5,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 1,
+    "numberOfSellIn": 5,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 2,
+    "numberOfSellIn": 5,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 3,
+    "numberOfSellIn": 5,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 4,
+    "numberOfSellIn": 5,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 5,
+    "numberOfSellIn": 5,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 6,
+    "numberOfSellIn": 5,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 7,
+    "numberOfSellIn": 5,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 8,
+    "numberOfSellIn": 5,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 9,
+    "numberOfSellIn": 5,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 10,
+    "numberOfSellIn": 5,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 11,
+    "numberOfSellIn": 5,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 12,
+    "numberOfSellIn": 5,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 13,
+    "numberOfSellIn": 5,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 14,
+    "numberOfSellIn": 5,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 15,
+    "numberOfSellIn": 5,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 16,
+    "numberOfSellIn": 5,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 17,
+    "numberOfSellIn": 5,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 18,
+    "numberOfSellIn": 5,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 19,
+    "numberOfSellIn": 5,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 20,
+    "numberOfSellIn": 5,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 21,
+    "numberOfSellIn": 5,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 22,
+    "numberOfSellIn": 5,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 23,
+    "numberOfSellIn": 5,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 24,
+    "numberOfSellIn": 5,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 25,
+    "numberOfSellIn": 5,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 26,
+    "numberOfSellIn": 5,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 27,
+    "numberOfSellIn": 5,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 28,
+    "numberOfSellIn": 5,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 29,
+    "numberOfSellIn": 5,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 30,
+    "numberOfSellIn": 5,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 31,
+    "numberOfSellIn": 5,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 32,
+    "numberOfSellIn": 5,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 33,
+    "numberOfSellIn": 5,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 34,
+    "numberOfSellIn": 5,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 35,
+    "numberOfSellIn": 5,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 36,
+    "numberOfSellIn": 5,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 37,
+    "numberOfSellIn": 5,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 38,
+    "numberOfSellIn": 5,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 39,
+    "numberOfSellIn": 5,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 40,
+    "numberOfSellIn": 5,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 41,
+    "numberOfSellIn": 5,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 42,
+    "numberOfSellIn": 5,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 43,
+    "numberOfSellIn": 5,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 44,
+    "numberOfSellIn": 5,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 45,
+    "numberOfSellIn": 5,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 46,
+    "numberOfSellIn": 5,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 47,
+    "numberOfSellIn": 5,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 48,
+    "numberOfSellIn": 5,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 49,
+    "numberOfSellIn": 5,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 50,
+    "numberOfSellIn": 5,
+    "outputQuality": 48
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 6,
+    "quality": 51,
+    "numberOfSellIn": 5,
+    "outputQuality": 49
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": -1,
+    "numberOfSellIn": 6,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 0,
+    "numberOfSellIn": 6,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 1,
+    "numberOfSellIn": 6,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 2,
+    "numberOfSellIn": 6,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 3,
+    "numberOfSellIn": 6,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 4,
+    "numberOfSellIn": 6,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 5,
+    "numberOfSellIn": 6,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 6,
+    "numberOfSellIn": 6,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 7,
+    "numberOfSellIn": 6,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 8,
+    "numberOfSellIn": 6,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 9,
+    "numberOfSellIn": 6,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 10,
+    "numberOfSellIn": 6,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 11,
+    "numberOfSellIn": 6,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 12,
+    "numberOfSellIn": 6,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 13,
+    "numberOfSellIn": 6,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 14,
+    "numberOfSellIn": 6,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 15,
+    "numberOfSellIn": 6,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 16,
+    "numberOfSellIn": 6,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 17,
+    "numberOfSellIn": 6,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 18,
+    "numberOfSellIn": 6,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 19,
+    "numberOfSellIn": 6,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 20,
+    "numberOfSellIn": 6,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 21,
+    "numberOfSellIn": 6,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 22,
+    "numberOfSellIn": 6,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 23,
+    "numberOfSellIn": 6,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 24,
+    "numberOfSellIn": 6,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 25,
+    "numberOfSellIn": 6,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 26,
+    "numberOfSellIn": 6,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 27,
+    "numberOfSellIn": 6,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 28,
+    "numberOfSellIn": 6,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 29,
+    "numberOfSellIn": 6,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 30,
+    "numberOfSellIn": 6,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 31,
+    "numberOfSellIn": 6,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 32,
+    "numberOfSellIn": 6,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 33,
+    "numberOfSellIn": 6,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 34,
+    "numberOfSellIn": 6,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 35,
+    "numberOfSellIn": 6,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 36,
+    "numberOfSellIn": 6,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 37,
+    "numberOfSellIn": 6,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 38,
+    "numberOfSellIn": 6,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 39,
+    "numberOfSellIn": 6,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 40,
+    "numberOfSellIn": 6,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 41,
+    "numberOfSellIn": 6,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 42,
+    "numberOfSellIn": 6,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 43,
+    "numberOfSellIn": 6,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 44,
+    "numberOfSellIn": 6,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 45,
+    "numberOfSellIn": 6,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 46,
+    "numberOfSellIn": 6,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 47,
+    "numberOfSellIn": 6,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 48,
+    "numberOfSellIn": 6,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 49,
+    "numberOfSellIn": 6,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 50,
+    "numberOfSellIn": 6,
+    "outputQuality": 48
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 7,
+    "quality": 51,
+    "numberOfSellIn": 6,
+    "outputQuality": 49
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": -1,
+    "numberOfSellIn": 7,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 0,
+    "numberOfSellIn": 7,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 1,
+    "numberOfSellIn": 7,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 2,
+    "numberOfSellIn": 7,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 3,
+    "numberOfSellIn": 7,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 4,
+    "numberOfSellIn": 7,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 5,
+    "numberOfSellIn": 7,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 6,
+    "numberOfSellIn": 7,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 7,
+    "numberOfSellIn": 7,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 8,
+    "numberOfSellIn": 7,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 9,
+    "numberOfSellIn": 7,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 10,
+    "numberOfSellIn": 7,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 11,
+    "numberOfSellIn": 7,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 12,
+    "numberOfSellIn": 7,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 13,
+    "numberOfSellIn": 7,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 14,
+    "numberOfSellIn": 7,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 15,
+    "numberOfSellIn": 7,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 16,
+    "numberOfSellIn": 7,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 17,
+    "numberOfSellIn": 7,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 18,
+    "numberOfSellIn": 7,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 19,
+    "numberOfSellIn": 7,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 20,
+    "numberOfSellIn": 7,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 21,
+    "numberOfSellIn": 7,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 22,
+    "numberOfSellIn": 7,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 23,
+    "numberOfSellIn": 7,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 24,
+    "numberOfSellIn": 7,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 25,
+    "numberOfSellIn": 7,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 26,
+    "numberOfSellIn": 7,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 27,
+    "numberOfSellIn": 7,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 28,
+    "numberOfSellIn": 7,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 29,
+    "numberOfSellIn": 7,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 30,
+    "numberOfSellIn": 7,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 31,
+    "numberOfSellIn": 7,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 32,
+    "numberOfSellIn": 7,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 33,
+    "numberOfSellIn": 7,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 34,
+    "numberOfSellIn": 7,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 35,
+    "numberOfSellIn": 7,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 36,
+    "numberOfSellIn": 7,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 37,
+    "numberOfSellIn": 7,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 38,
+    "numberOfSellIn": 7,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 39,
+    "numberOfSellIn": 7,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 40,
+    "numberOfSellIn": 7,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 41,
+    "numberOfSellIn": 7,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 42,
+    "numberOfSellIn": 7,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 43,
+    "numberOfSellIn": 7,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 44,
+    "numberOfSellIn": 7,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 45,
+    "numberOfSellIn": 7,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 46,
+    "numberOfSellIn": 7,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 47,
+    "numberOfSellIn": 7,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 48,
+    "numberOfSellIn": 7,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 49,
+    "numberOfSellIn": 7,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 50,
+    "numberOfSellIn": 7,
+    "outputQuality": 48
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 8,
+    "quality": 51,
+    "numberOfSellIn": 7,
+    "outputQuality": 49
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": -1,
+    "numberOfSellIn": 8,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 0,
+    "numberOfSellIn": 8,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 1,
+    "numberOfSellIn": 8,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 2,
+    "numberOfSellIn": 8,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 3,
+    "numberOfSellIn": 8,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 4,
+    "numberOfSellIn": 8,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 5,
+    "numberOfSellIn": 8,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 6,
+    "numberOfSellIn": 8,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 7,
+    "numberOfSellIn": 8,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 8,
+    "numberOfSellIn": 8,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 9,
+    "numberOfSellIn": 8,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 10,
+    "numberOfSellIn": 8,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 11,
+    "numberOfSellIn": 8,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 12,
+    "numberOfSellIn": 8,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 13,
+    "numberOfSellIn": 8,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 14,
+    "numberOfSellIn": 8,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 15,
+    "numberOfSellIn": 8,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 16,
+    "numberOfSellIn": 8,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 17,
+    "numberOfSellIn": 8,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 18,
+    "numberOfSellIn": 8,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 19,
+    "numberOfSellIn": 8,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 20,
+    "numberOfSellIn": 8,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 21,
+    "numberOfSellIn": 8,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 22,
+    "numberOfSellIn": 8,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 23,
+    "numberOfSellIn": 8,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 24,
+    "numberOfSellIn": 8,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 25,
+    "numberOfSellIn": 8,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 26,
+    "numberOfSellIn": 8,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 27,
+    "numberOfSellIn": 8,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 28,
+    "numberOfSellIn": 8,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 29,
+    "numberOfSellIn": 8,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 30,
+    "numberOfSellIn": 8,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 31,
+    "numberOfSellIn": 8,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 32,
+    "numberOfSellIn": 8,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 33,
+    "numberOfSellIn": 8,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 34,
+    "numberOfSellIn": 8,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 35,
+    "numberOfSellIn": 8,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 36,
+    "numberOfSellIn": 8,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 37,
+    "numberOfSellIn": 8,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 38,
+    "numberOfSellIn": 8,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 39,
+    "numberOfSellIn": 8,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 40,
+    "numberOfSellIn": 8,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 41,
+    "numberOfSellIn": 8,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 42,
+    "numberOfSellIn": 8,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 43,
+    "numberOfSellIn": 8,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 44,
+    "numberOfSellIn": 8,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 45,
+    "numberOfSellIn": 8,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 46,
+    "numberOfSellIn": 8,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 47,
+    "numberOfSellIn": 8,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 48,
+    "numberOfSellIn": 8,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 49,
+    "numberOfSellIn": 8,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 50,
+    "numberOfSellIn": 8,
+    "outputQuality": 48
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 9,
+    "quality": 51,
+    "numberOfSellIn": 8,
+    "outputQuality": 49
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": -1,
+    "numberOfSellIn": 9,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 0,
+    "numberOfSellIn": 9,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 1,
+    "numberOfSellIn": 9,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 2,
+    "numberOfSellIn": 9,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 3,
+    "numberOfSellIn": 9,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 4,
+    "numberOfSellIn": 9,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 5,
+    "numberOfSellIn": 9,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 6,
+    "numberOfSellIn": 9,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 7,
+    "numberOfSellIn": 9,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 8,
+    "numberOfSellIn": 9,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 9,
+    "numberOfSellIn": 9,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 10,
+    "numberOfSellIn": 9,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 11,
+    "numberOfSellIn": 9,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 12,
+    "numberOfSellIn": 9,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 13,
+    "numberOfSellIn": 9,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 14,
+    "numberOfSellIn": 9,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 15,
+    "numberOfSellIn": 9,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 16,
+    "numberOfSellIn": 9,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 17,
+    "numberOfSellIn": 9,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 18,
+    "numberOfSellIn": 9,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 19,
+    "numberOfSellIn": 9,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 20,
+    "numberOfSellIn": 9,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 21,
+    "numberOfSellIn": 9,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 22,
+    "numberOfSellIn": 9,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 23,
+    "numberOfSellIn": 9,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 24,
+    "numberOfSellIn": 9,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 25,
+    "numberOfSellIn": 9,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 26,
+    "numberOfSellIn": 9,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 27,
+    "numberOfSellIn": 9,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 28,
+    "numberOfSellIn": 9,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 29,
+    "numberOfSellIn": 9,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 30,
+    "numberOfSellIn": 9,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 31,
+    "numberOfSellIn": 9,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 32,
+    "numberOfSellIn": 9,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 33,
+    "numberOfSellIn": 9,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 34,
+    "numberOfSellIn": 9,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 35,
+    "numberOfSellIn": 9,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 36,
+    "numberOfSellIn": 9,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 37,
+    "numberOfSellIn": 9,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 38,
+    "numberOfSellIn": 9,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 39,
+    "numberOfSellIn": 9,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 40,
+    "numberOfSellIn": 9,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 41,
+    "numberOfSellIn": 9,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 42,
+    "numberOfSellIn": 9,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 43,
+    "numberOfSellIn": 9,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 44,
+    "numberOfSellIn": 9,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 45,
+    "numberOfSellIn": 9,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 46,
+    "numberOfSellIn": 9,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 47,
+    "numberOfSellIn": 9,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 48,
+    "numberOfSellIn": 9,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 49,
+    "numberOfSellIn": 9,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 50,
+    "numberOfSellIn": 9,
+    "outputQuality": 48
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 10,
+    "quality": 51,
+    "numberOfSellIn": 9,
+    "outputQuality": 49
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": -1,
+    "numberOfSellIn": 10,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 0,
+    "numberOfSellIn": 10,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 1,
+    "numberOfSellIn": 10,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 2,
+    "numberOfSellIn": 10,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 3,
+    "numberOfSellIn": 10,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 4,
+    "numberOfSellIn": 10,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 5,
+    "numberOfSellIn": 10,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 6,
+    "numberOfSellIn": 10,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 7,
+    "numberOfSellIn": 10,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 8,
+    "numberOfSellIn": 10,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 9,
+    "numberOfSellIn": 10,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 10,
+    "numberOfSellIn": 10,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 11,
+    "numberOfSellIn": 10,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 12,
+    "numberOfSellIn": 10,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 13,
+    "numberOfSellIn": 10,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 14,
+    "numberOfSellIn": 10,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 15,
+    "numberOfSellIn": 10,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 16,
+    "numberOfSellIn": 10,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 17,
+    "numberOfSellIn": 10,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 18,
+    "numberOfSellIn": 10,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 19,
+    "numberOfSellIn": 10,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 20,
+    "numberOfSellIn": 10,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 21,
+    "numberOfSellIn": 10,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 22,
+    "numberOfSellIn": 10,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 23,
+    "numberOfSellIn": 10,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 24,
+    "numberOfSellIn": 10,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 25,
+    "numberOfSellIn": 10,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 26,
+    "numberOfSellIn": 10,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 27,
+    "numberOfSellIn": 10,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 28,
+    "numberOfSellIn": 10,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 29,
+    "numberOfSellIn": 10,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 30,
+    "numberOfSellIn": 10,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 31,
+    "numberOfSellIn": 10,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 32,
+    "numberOfSellIn": 10,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 33,
+    "numberOfSellIn": 10,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 34,
+    "numberOfSellIn": 10,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 35,
+    "numberOfSellIn": 10,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 36,
+    "numberOfSellIn": 10,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 37,
+    "numberOfSellIn": 10,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 38,
+    "numberOfSellIn": 10,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 39,
+    "numberOfSellIn": 10,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 40,
+    "numberOfSellIn": 10,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 41,
+    "numberOfSellIn": 10,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 42,
+    "numberOfSellIn": 10,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 43,
+    "numberOfSellIn": 10,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 44,
+    "numberOfSellIn": 10,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 45,
+    "numberOfSellIn": 10,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 46,
+    "numberOfSellIn": 10,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 47,
+    "numberOfSellIn": 10,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 48,
+    "numberOfSellIn": 10,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 49,
+    "numberOfSellIn": 10,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 50,
+    "numberOfSellIn": 10,
+    "outputQuality": 48
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 11,
+    "quality": 51,
+    "numberOfSellIn": 10,
+    "outputQuality": 49
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": -1,
+    "numberOfSellIn": 11,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 0,
+    "numberOfSellIn": 11,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 1,
+    "numberOfSellIn": 11,
+    "outputQuality": -1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 2,
+    "numberOfSellIn": 11,
+    "outputQuality": 0
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 3,
+    "numberOfSellIn": 11,
+    "outputQuality": 1
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 4,
+    "numberOfSellIn": 11,
+    "outputQuality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 5,
+    "numberOfSellIn": 11,
+    "outputQuality": 3
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 6,
+    "numberOfSellIn": 11,
+    "outputQuality": 4
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 7,
+    "numberOfSellIn": 11,
+    "outputQuality": 5
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 8,
+    "numberOfSellIn": 11,
+    "outputQuality": 6
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 9,
+    "numberOfSellIn": 11,
+    "outputQuality": 7
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 10,
+    "numberOfSellIn": 11,
+    "outputQuality": 8
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 11,
+    "numberOfSellIn": 11,
+    "outputQuality": 9
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 12,
+    "numberOfSellIn": 11,
+    "outputQuality": 10
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 13,
+    "numberOfSellIn": 11,
+    "outputQuality": 11
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 14,
+    "numberOfSellIn": 11,
+    "outputQuality": 12
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 15,
+    "numberOfSellIn": 11,
+    "outputQuality": 13
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 16,
+    "numberOfSellIn": 11,
+    "outputQuality": 14
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 17,
+    "numberOfSellIn": 11,
+    "outputQuality": 15
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 18,
+    "numberOfSellIn": 11,
+    "outputQuality": 16
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 19,
+    "numberOfSellIn": 11,
+    "outputQuality": 17
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 20,
+    "numberOfSellIn": 11,
+    "outputQuality": 18
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 21,
+    "numberOfSellIn": 11,
+    "outputQuality": 19
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 22,
+    "numberOfSellIn": 11,
+    "outputQuality": 20
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 23,
+    "numberOfSellIn": 11,
+    "outputQuality": 21
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 24,
+    "numberOfSellIn": 11,
+    "outputQuality": 22
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 25,
+    "numberOfSellIn": 11,
+    "outputQuality": 23
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 26,
+    "numberOfSellIn": 11,
+    "outputQuality": 24
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 27,
+    "numberOfSellIn": 11,
+    "outputQuality": 25
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 28,
+    "numberOfSellIn": 11,
+    "outputQuality": 26
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 29,
+    "numberOfSellIn": 11,
+    "outputQuality": 27
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 30,
+    "numberOfSellIn": 11,
+    "outputQuality": 28
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 31,
+    "numberOfSellIn": 11,
+    "outputQuality": 29
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 32,
+    "numberOfSellIn": 11,
+    "outputQuality": 30
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 33,
+    "numberOfSellIn": 11,
+    "outputQuality": 31
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 34,
+    "numberOfSellIn": 11,
+    "outputQuality": 32
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 35,
+    "numberOfSellIn": 11,
+    "outputQuality": 33
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 36,
+    "numberOfSellIn": 11,
+    "outputQuality": 34
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 37,
+    "numberOfSellIn": 11,
+    "outputQuality": 35
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 38,
+    "numberOfSellIn": 11,
+    "outputQuality": 36
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 39,
+    "numberOfSellIn": 11,
+    "outputQuality": 37
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 40,
+    "numberOfSellIn": 11,
+    "outputQuality": 38
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 41,
+    "numberOfSellIn": 11,
+    "outputQuality": 39
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 42,
+    "numberOfSellIn": 11,
+    "outputQuality": 40
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 43,
+    "numberOfSellIn": 11,
+    "outputQuality": 41
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 44,
+    "numberOfSellIn": 11,
+    "outputQuality": 42
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 45,
+    "numberOfSellIn": 11,
+    "outputQuality": 43
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 46,
+    "numberOfSellIn": 11,
+    "outputQuality": 44
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 47,
+    "numberOfSellIn": 11,
+    "outputQuality": 45
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 48,
+    "numberOfSellIn": 11,
+    "outputQuality": 46
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 49,
+    "numberOfSellIn": 11,
+    "outputQuality": 47
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 50,
+    "numberOfSellIn": 11,
+    "outputQuality": 48
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 12,
+    "quality": 51,
+    "numberOfSellIn": 11,
+    "outputQuality": 49
   }
 ]
