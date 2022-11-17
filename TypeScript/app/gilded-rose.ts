@@ -16,7 +16,7 @@ export enum ItemTypes {
   SULFURAS = "Sulfuras, Hand of Ragnaros",
 }
 
-function updateNormal(item: Item): void {
+const updateNormal = (item: Item): Item => {
   if (item.quality > 0) {
     item.quality = item.quality - 1;
   }
@@ -26,9 +26,10 @@ function updateNormal(item: Item): void {
   if (item.sellIn < 0 && item.quality > 0) {
     item.quality = item.quality - 1;
   }
-}
+  return item;
+};
 
-function updateBrie(item: Item): void {
+const updateBrie = (item: Item): Item => {
   if (item.quality < 50) {
     item.quality = item.quality + 1;
   }
@@ -38,9 +39,10 @@ function updateBrie(item: Item): void {
   if (item.sellIn < 0 && item.quality < 50) {
     item.quality = item.quality + 1;
   }
-}
+  return item;
+};
 
-function updateBackStage(item: Item): void {
+const updateBackStage = (item: Item): Item => {
   if (item.quality < 50) {
     item.quality = item.quality + 1;
 
@@ -55,7 +57,24 @@ function updateBackStage(item: Item): void {
   if (item.sellIn < 0) {
     item.quality = item.quality - item.quality;
   }
-}
+  return item;
+};
+
+const update = (item: Item): Item => {
+  switch (item.name) {
+    case ItemTypes.BRIE:
+      return updateBrie(item);
+
+    case ItemTypes.BACKSTAGE:
+      return updateBackStage(item);
+
+    case ItemTypes.SULFURAS:
+      return item;
+
+    default:
+      return updateNormal(item);
+  }
+};
 export class GildedRose {
   items: Array<Item>;
 
@@ -64,22 +83,7 @@ export class GildedRose {
   }
 
   updateQuality() {
-    for (const item of this.items) {
-      switch (item.name) {
-        case ItemTypes.BRIE:
-          updateBrie(item);
-          continue;
-        case ItemTypes.BACKSTAGE:
-          updateBackStage(item);
-          continue;
-        case ItemTypes.SULFURAS:
-          continue;
-        default:
-          updateNormal(item);
-          continue;
-      }
-    }
-
+    this.items.forEach((item) => update(item));
     return this.items;
   }
 }
