@@ -61,19 +61,18 @@ const updateBackStage = (item: Item): Item => {
 };
 
 const update = (item: Item): Item => {
-  switch (item.name) {
-    case ItemTypes.BRIE:
-      return updateBrie(item);
-
-    case ItemTypes.BACKSTAGE:
-      return updateBackStage(item);
-
-    case ItemTypes.SULFURAS:
-      return item;
-
-    default:
-      return updateNormal(item);
+  if (item.name === ItemTypes.BRIE) {
+    return updateBrie(item);
   }
+
+  if (item.name === ItemTypes.BACKSTAGE) {
+    return updateBackStage(item);
+  }
+
+  if (item.name === ItemTypes.SULFURAS) {
+    return item;
+  }
+  return updateNormal(item);
 };
 export class GildedRose {
   items: Array<Item>;
