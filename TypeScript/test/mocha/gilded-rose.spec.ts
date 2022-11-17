@@ -1,45 +1,31 @@
 import { Item, GildedRose } from "@/gilded-rose";
+import tests from "../../tests.json";
+import { expect } from "chai";
 
-type item = {
+interface Iitem {
   name: string;
   sellIn: number;
   quality: number;
   numberOfSellIn: number;
   outputQuality: number;
-};
+}
 
 describe("Gilded Rose", () => {
-  it("describe behaviour of the legacy code", () => {
-    const itemNames = [
-      "Normal Item",
-      "Aged Brie",
-      "Backstage passes to a TAFKAL80ETC concert",
-      "Sulfuras, Hand of Ragnaros",
-    ];
+  for (const test of tests) {
+    const { name, sellIn, quality, numberOfSellIn, outputQuality } = test;
+    const describeTest: Iitem = {
+      name,
+      sellIn,
+      quality,
+      numberOfSellIn,
+      outputQuality,
+    };
+    it(JSON.stringify(describeTest), () => {
+      const gildedRose = new GildedRose([new Item(name, sellIn, quality)]);
+      const items = gildedRose.updateQuality();
 
-    const tests: item[] = [];
-
-    const [minSellIn, maxSellIn] = [-1, 12];
-    const [minQuality, maxQuality] = [-1, 51];
-
-    for (const name of itemNames) {
-      for (let sellIn = minSellIn; sellIn <= maxSellIn; sellIn++) {
-        for (let quality = minQuality; quality <= maxQuality; quality++) {
-          const gildedRose = new GildedRose([new Item(name, sellIn, quality)]);
-          const items = gildedRose.updateQuality();
-
-          const numberOfSellIn = items[0].sellIn;
-          const outputQuality = items[0].quality;
-
-          tests.push({
-            name,
-            sellIn,
-            quality,
-            numberOfSellIn,
-            outputQuality,
-          });
-        }
-      }
-    }
-  });
+      expect(items[0].sellIn).to.equal(numberOfSellIn);
+      expect(items[0].quality).to.equal(outputQuality);
+    });
+  }
 });
